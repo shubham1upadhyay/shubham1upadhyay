@@ -28,5 +28,12 @@
 ### <div align="center">Go to <a href="https://shubham1405.de.r.appspot.com/">my portfolio</a> for more information!</div>
 
 ---
+<div align="center">
 
-<br>
+## Connect with me
+
+ 
+<a href="https://wa.link/x8trce">
+<img src="https://img.shields.io/badge/whatsapp-FE7500?E77B5.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" alt="Angel List" style="margin-bottom: 5px;" />
+</a>  
+</div>
