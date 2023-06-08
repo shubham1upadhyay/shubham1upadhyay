@@ -25,8 +25,7 @@
 
 <p align="center">Community taught software developer with a proven track record of creating and implementing successful front and back end web applications. I am currently looking for full time work and open to work on any interesting projects. </p>
 
-### <div align="center">Go to <a href="https://iamshubhamupadhyay.netlify.app"
->my portfolio</a> for more information!</div>
+### <div align="center">Go to<a href="https://iamshubhamupadhyay.netlify.app"> my portfolio</a> for more information ! </div>
 
 ---
 <div align="center">
